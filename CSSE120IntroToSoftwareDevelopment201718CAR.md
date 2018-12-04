@@ -30,7 +30,7 @@ Long-term, consider the following:
 * Determine whether changes should be made to provide a smoother gateway to CSSE 220.
 * Could/should CSSE 120 be replaced by a (possibly self-paced) online course **even during the regular terms**?
 	
-### earning Outcomes (Course Outcomes, CO)
+### Learning/Course Outcomes (CO)
 
 Students who successfully complete this course should be able to:
 
