@@ -1,4 +1,4 @@
-##CSSE 120 Introduction to Software Development
+## CSSE 120 Introduction to Software Development
 
 ####Course Assessment Report (CAR), revised
 
