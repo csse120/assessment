@@ -1,6 +1,6 @@
 ## CSSE 120 Introduction to Software Development
 
-####Course Assessment Report (CAR), revised
+#### Course Assessment Report (CAR), revised
 
 Approved: 8/20/18, revised version approved 12/5/18
 
@@ -8,7 +8,7 @@ INSTRUCTORS
 
 Matt Boutell, Dave Fisher, David Mutchler
 
-###Recommendations from Previous Offering and Corresponding Changes
+### Recommendations from Previous Offering and Corresponding Changes
 
 * Settle upon a robot platform [done]
 * Improve the robot software to provide better examples of using objects. [done, although further improvement is needed and is ongoing.]
@@ -30,7 +30,7 @@ Long-term, consider the following:
 * Determine whether changes should be made to provide a smoother gateway to CSSE 220.
 * Could/should CSSE 120 be replaced by a (possibly self-paced) online course **even during the regular terms**?
 	
-###Learning Outcomes (Course Outcomes, CO)
+### earning Outcomes (Course Outcomes, CO)
 
 Students who successfully complete this course should be able to:
 
@@ -70,7 +70,7 @@ demonstrating (at an elementary level) effective use of:
 	f. Team roles
 	g. Conflict resolution
 
-###Mapping Course Outcomes (CO) to Program Student Outcomes (PO)
+### Mapping Course Outcomes (CO) to Program Student Outcomes (PO)
 
 NOTE: Course Outcomes are across the top (columns) and Program Outcomes are down the sides (rows).
 
@@ -103,19 +103,19 @@ NOTE: Course Outcomes are across the top (columns) and Program Outcomes are down
 | P8      |   |   | x |
 | P9      |   |   |   |
 
-###Description of Assessment Tools
+### Description of Assessment Tools
 
-####Every-session assignments
+#### Every-session assignments
 
 Each session has assignments to do _before_ the session and _during_ the session (and completed after the session as needed).  These include videos and reading, short quizzes, written exercises, and (especially) programming assignments.
 
 These are required formative assessments that are checked for completeness by the TAs and instructors.  Occasional code reviews provide additional formative feedback to students.
 
-####Capstone team project
+#### Capstone team project
 
 Capstone team project on designing and implementing a software product based on a given requirements specification.  Proceeds over 2+ weeks with regular milestones for deliverables.
 
-####Exams
+#### Exams
 
 Three exams during the term, plus a final examination.
 
@@ -123,11 +123,11 @@ Exams 1 and 2 include both a paper-and-pencil component and an on-the-computer c
 
 The final exam may be waived for students who have clearly demonstrated strong A-level mastery of the material.
 
-####Partner Evaluation Survey
+#### Partner Evaluation Survey
 
 A short survey students complete to rate themselves and their project partners on teamwork.
 
-###Course Assessment Matrix
+### Course Assessment Matrix
 
 
 |                  Activity                 | O1 | O2 | O3 |
